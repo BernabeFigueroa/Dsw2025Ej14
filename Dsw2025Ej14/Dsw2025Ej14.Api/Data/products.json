@@ -1,0 +1,20 @@
+[
+    {
+        "Sku": "P001",
+        "Name": "Monitor Samsung 24\"",
+        "CurrentUnitPrice": 199.99,
+        "IsActive": true
+    },
+    {
+        "Sku": "P002",
+        "Name": "Mouse inal�mbrico Logitech",
+        "CurrentUnitPrice": 29.99,
+        "IsActive": false
+    },
+    {
+        "Sku": "P003",
+        "Name": "Teclado mec�nico Redragon",
+        "CurrentUnitPrice": 89.50,
+        "IsActive": true
+    }
+]
